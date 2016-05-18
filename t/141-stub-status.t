@@ -59,6 +59,7 @@ __DATA__
                 end
                 ngx.say("succeed")
                 return
+            end
         }
     }
 --- request
